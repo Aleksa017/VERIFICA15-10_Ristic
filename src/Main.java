@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in); //faccio un try per verificare i numeri
         try {
             System.out.print("Inserisci numeratore prima frazione: ");
             int num1 = input.nextInt();

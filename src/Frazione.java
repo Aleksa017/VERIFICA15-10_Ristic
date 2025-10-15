@@ -1,6 +1,3 @@
-import java.util.Scanner;
-
-// Classe Frazione che implementa Operando
 public class Frazione implements Operando {
     private int numeratore;
     private int denominatore;
